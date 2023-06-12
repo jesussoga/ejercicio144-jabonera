@@ -16,7 +16,7 @@ export class JaboneraComponent {
   public imagenOff: string;
 
   constructor (){
-      this.nombre = "Fairy";
+      this.nombre = "Hacendado";
       this.nivelMaximo = 500;
       this.nivelActual = 0;
       this.cantidadDispensada = 10;
